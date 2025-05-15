@@ -15,7 +15,6 @@ I will keep adding my handy scripts here in the future, so you can find all my t
 - **Description:** A script to update and clean both APT and Flatpak packages on Debian-based systems like Ubuntu, Linux Mint or PopOs etc...
 - **Usage:**
   ```bash
-  chmod +x afupdate.sh
   ./afupdate.sh
   ```
 You’ll need sudo privileges for APT updates.
