@@ -20,5 +20,5 @@ I will keep adding my handy scripts here in the future, so you can find all my t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/my-scripts-repo.git
+   git clone https://github.com/JT-808/Linux-toolbox.git
    cd my-scripts-repo
