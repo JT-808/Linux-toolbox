@@ -9,16 +9,10 @@ I will keep adding my handy scripts here in the future, so you can find all my t
 
 ## Available Scripts
 
-### 1. Mount WebDAV
-
-- **Location:** `mount-webdav/`
-- **Description:** Script to mount any WebDAV share easily on Linux using `davfs2`.
-- **Usage:** See the [README](mount-webdav/README.md) inside the folder for setup and usage instructions.
-
 ### 1. apt-flatpak-updater
 
 - **Location:** `apt-flatpak-updater/afupdate.sh`
-- **Description:** A script to update and clean both APT and Flatpak packages on Debian-based systems like Ubuntu or Linux Mint.
+- **Description:** A script to update and clean both APT and Flatpak packages on Debian-based systems like Ubuntu, Linux Mint or PopOs etc...
 - **Usage:**
   ```bash
   chmod +x afupdate.sh
@@ -28,6 +22,14 @@ You’ll need sudo privileges for APT updates.
 See the [README](apt-flatpak-updater/README.md) in the folder for more details.
 
 
+
+### 2. Mount WebDAV
+
+- **Location:** `mount-webdav/`
+- **Description:** Script to mount any WebDAV share easily on Linux using `davfs2`.
+- **Usage:** See the [README](mount-webdav/README.md) inside the folder for setup and usage instructions.
+
+---
 ## How to Use
 
 1. Clone this repository:
