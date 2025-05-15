@@ -22,3 +22,11 @@ I will keep adding my handy scripts here in the future, so you can find all my t
    ```bash
    git clone https://github.com/JT-808/Linux-toolbox.git
    cd my-scripts-repo
+
+2. Navigate to the folder of the script you want to use and follow its README.
+
+---
+### Contribution
+Feel free to contribute by opening issues or pull requests with new scripts or improvements.
+
+
