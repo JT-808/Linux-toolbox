@@ -20,9 +20,9 @@ This script automates the setup and mounting of a WebDAV share on Linux systems 
 ## How to Use
 1. Open the script and edit the following lines with your actual details:
 
-WEBDAV_URL="https://your-webdav-server.com/path"
-USERNAME="your-username"
-PASSWORD="your-password"
+- WEBDAV_URL="https://your-webdav-server.com/path"
+- USERNAME="your-username"
+- PASSWORD="your-password"
 
 2. Make the script executable:
 ```bash
