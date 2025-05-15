@@ -14,3 +14,11 @@ I will keep adding my handy scripts here in the future, so you can find all my t
 - **Location:** `mount-webdav/`
 - **Description:** Script to mount any WebDAV share easily on Linux using `davfs2`.
 - **Usage:** See the [README](mount-webdav/README.md) inside the folder for setup and usage instructions.
+
+
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/my-scripts-repo.git
+   cd my-scripts-repo
