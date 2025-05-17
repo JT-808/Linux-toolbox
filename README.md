@@ -36,9 +36,9 @@ Description: Creates a well-organized folder structure for personal and business
 
 Usage:
 
-``bash
+```bash
 ./dokumentenstruktur_erstellen.sh
-``
+```
 This will create folders such as:
 
 01_Privat/...
