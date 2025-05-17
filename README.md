@@ -28,18 +28,8 @@ See the [README](apt-flatpak-updater/README.md) in the folder for more details.
 - **Description:** Script to mount any WebDAV share easily on Linux using `davfs2`.
 - **Usage:** See the [README](mount-webdav/README.md) inside the folder for setup and usage instructions.
 
----
-## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/JT-808/Linux-toolbox.git
-   cd my-scripts-repo
-
-2. Navigate to the folder of the script you want to use and follow its README.
-
-
-3. Dokumentenstruktur-Ersteller
+### 3. Dokumentenstruktur-Ersteller
 Location: dokumentenstruktur/dokumentenstruktur_erstellen.sh
 
 Description: Creates a well-organized folder structure for personal and business documents, including export and sharing folders. Useful for setting up a Cryptomator vault or general document organization.
@@ -59,6 +49,17 @@ This will create folders such as:
 
 See the README in the folder for the full structure and details.
 
+
+
+---
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/JT-808/Linux-toolbox.git
+   cd my-scripts-repo
+
+2. Navigate to the folder of the script you want to use and follow its README.
 
 ---
 ### Contribution
