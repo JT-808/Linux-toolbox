@@ -1,7 +1,5 @@
 # neatdocs.sh / neatdocs_de.sh - Digital Document Organizer
 
-![Folder Structure Visualization](https://example.com/folder-structure.png) *(Optional: Beispielbild einfügen)*
-
 ## 🌍 English Documentation
 
 ### 📌 Purpose
