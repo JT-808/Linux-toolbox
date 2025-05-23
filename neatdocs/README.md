@@ -42,14 +42,17 @@ Automatically creates a standardized folder structure for organizing personal an
 ### 🚀 Installation & Usage
 
  1. Download script
-curl -O curl -O https://raw.githubusercontent.com/JT-808/Linux-toolbox/main/neatdocs.sh
-
+ ```bash
+curl -O https://raw.githubusercontent.com/JT-808/Linux-toolbox/main/neatdocs/neatdocs.sh
+```
  2. Make executable
+ ```bash
 chmod +x neatdocs.sh
-
+```
  3. Run it
+ ```bash
 ./neatdocs.sh
-
+```
 ---
 # 🇩🇪 Deutsche Dokumentation
 ### 📌 Zweck
@@ -90,7 +93,7 @@ Erstellt automatisch eine standardisierte Ordnerstruktur zur Organisation privat
 
 1. Skript herunterladen
 ```bash
-curl -O https://example.com/neatdocs_de.sh
+curl -O https://raw.githubusercontent.com/JT-808/Linux-toolbox/main/neatdocs/neatdocs_de.sh
 ```
 2. Ausführbar machen
 ```bash
