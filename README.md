@@ -58,7 +58,6 @@ See the README in the folder for the full structure and details.
    ```bash
    git clone https://github.com/JT-808/Linux-toolbox.git
    cd my-scripts-repo
-
 2. Navigate to the folder of the script you want to use and follow its README.
 
 ---
