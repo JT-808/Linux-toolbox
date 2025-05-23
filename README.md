@@ -20,35 +20,26 @@ I will keep adding my handy scripts here in the future, so you can find all my t
 You’ll need sudo privileges for APT updates.
 See the [README](apt-flatpak-updater/README.md) in the folder for more details.
 
-
+---
 
 ### 2. Mount WebDAV
 
 - **Location:** `mount-webdav/`
 - **Description:** Script to mount any WebDAV share easily on Linux using `davfs2`.
 - **Usage:** See the [README](mount-webdav/README.md) inside the folder for setup and usage instructions.
+---
 
+### 3. Document Structure Organizer (neatdocs)
+**Location:** neatdocs/
 
-### 3. Dokumentenstruktur-Ersteller
-Location: dokumentenstruktur/dokumentenstruktur_erstellen.sh
+**Description:** Creates a well-organized folder structure for personal and business documents. Available in both English and German versions.
 
-Description: Creates a well-organized folder structure for personal and business documents, including export and sharing folders. Useful for setting up a Cryptomator vault or general document organization.
+**Features:**
+- Two versions: neatdocs.sh (English) and neatdocs_de.sh (German)
+- Clear numbering system for easy navigation
+- Covers all life domains (personal, business, health, etc.)
 
-Usage:
-
-```bash
-./dokumentenstruktur_erstellen.sh
-```
-This will create folders such as:
-
-01_Privat/...
-02_Geschaeftlich/...
-03_Export_zum_Teilen/...
-
-99_Sonstiges
-
-See the README in the folder for the full structure and details.
-
+See the [README](neatdocs/README.md) in the folder for the full structure and details.
 
 
 ---
